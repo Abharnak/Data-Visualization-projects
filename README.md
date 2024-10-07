@@ -4,6 +4,11 @@
 
 The Investor Trend Analysis project aims to provide insights into the dynamics of startup investments. By analyzing various metrics, this project helps investors, entrepreneurs, and stakeholders understand investment trends, identify key players, and make data-driven decisions. The project encompasses visualizations that highlight investment patterns over time, top investors, and sector-wise analysis, facilitating a comprehensive understanding of the startup investment landscape.
 
+## Dashboard
+
+![image](https://github.com/user-attachments/assets/79549cd3-1f3e-48a3-85dc-7065b4262604)
+
+
 ## Key Features
 
 1. **Investment Trends Visualization**:
