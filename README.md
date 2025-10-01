@@ -4,6 +4,7 @@
 ![Excel](https://img.shields.io/badge/Excel-PivotTables-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Queries-red)
 ![Python](https://img.shields.io/badge/Python-ML-purple)
+
 Welcome to my Data Visualization Projects repository, where I showcase practical analytics projects using Excel, SQL, and Power BI. 
 These projects demonstrate my ability to clean, analyze, and visualize data to extract actionable insights and support business decisions.
 
