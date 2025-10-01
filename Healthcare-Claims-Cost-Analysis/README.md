@@ -44,7 +44,8 @@ This project focuses on **analyzing healthcare claims data** to identify key cos
 3. **Smoking Status Analysis:** Pie chart and bar chart comparing smokers and non-smokers.  
 4. **Regional Analysis:** Map visualization of average claim costs by region.
 
-   
+   <img width="1862" height="653" alt="image" src="https://github.com/user-attachments/assets/f9975fc7-6661-4948-988b-629949f118e9" />
+
 
 ---
 
