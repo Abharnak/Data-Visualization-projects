@@ -73,6 +73,8 @@ Tableau/Kaggle Dataset – Data source
 #### 📸 Dashboard Preview
 
 <img width="1575" height="893" alt="image" src="https://github.com/user-attachments/assets/6e19be1e-fa16-43c2-b9ac-71b26868588f" />
+<img width="1842" height="622" alt="image" src="https://github.com/user-attachments/assets/e5df4c72-36bc-452e-ac83-4e4fca7431e6" />
+
 
 
 ### 🚀 How to Use (In Progress)
